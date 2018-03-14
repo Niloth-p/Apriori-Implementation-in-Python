@@ -1,0 +1,126 @@
+citrus fruit >>> 814
+
+margarine >>> 576
+
+coffee >>> 571
+
+tropical fruit >>> 1032
+
+yogurt >>> 1372
+
+whole milk >>> 2513
+
+cream cheese >>> 390
+
+pip fruit >>> 744
+
+long life bakery product >>> 368
+
+other vegetables >>> 1903
+
+butter >>> 545
+
+rolls/buns >>> 1809
+
+UHT-milk >>> 329
+
+bottled beer >>> 792
+
+bottled water >>> 1087
+
+chocolate >>> 488
+
+white bread >>> 414
+
+curd >>> 524
+
+beef >>> 516
+
+frankfurter >>> 580
+
+soda >>> 1715
+
+chicken >>> 422
+
+fruit/vegetable juice >>> 711
+
+newspapers >>> 785
+
+sugar >>> 333
+
+pastry >>> 875
+
+root vegetables >>> 1072
+
+salty snack >>> 372
+
+waffles >>> 378
+
+canned beer >>> 764
+
+sausage >>> 924
+
+brown bread >>> 638
+
+shopping bags >>> 969
+
+hamburger meat >>> 327
+
+hygiene articles >>> 324
+
+napkins >>> 515
+
+berries >>> 327
+
+pork >>> 567
+
+whipped/sour cream >>> 705
+
+dessert >>> 365
+
+domestic eggs >>> 624
+
+frozen vegetables >>> 473
+
+specialty chocolate >>> 299
+
+onions >>> 305
+
+('whipped/sour cream', 'whole milk') >>> 317
+
+('rolls/buns', 'soda') >>> 377
+
+('other vegetables', 'rolls/buns') >>> 419
+
+('tropical fruit', 'whole milk') >>> 416
+
+('other vegetables', 'tropical fruit') >>> 353
+
+('pip fruit', 'whole milk') >>> 296
+
+('whole milk', 'yogurt') >>> 551
+
+('other vegetables', 'root vegetables') >>> 466
+
+('rolls/buns', 'whole milk') >>> 557
+
+('citrus fruit', 'whole milk') >>> 300
+
+('rolls/buns', 'yogurt') >>> 338
+
+('rolls/buns', 'sausage') >>> 301
+
+('bottled water', 'whole milk') >>> 338
+
+('other vegetables', 'whole milk') >>> 736
+
+('other vegetables', 'yogurt') >>> 427
+
+('soda', 'whole milk') >>> 394
+
+('other vegetables', 'soda') >>> 322
+
+('root vegetables', 'whole milk') >>> 481
+
+('pastry', 'whole milk') >>> 327
+

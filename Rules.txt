@@ -1,0 +1,6 @@
+['whipped/sour cream'] (705) -> ['whole milk'] (2513) [0.44964539007092197]
+['tropical fruit'] (1032) -> ['whole milk'] (2513) [0.40310077519379844]
+['pip fruit'] (744) -> ['whole milk'] (2513) [0.3978494623655914]
+['yogurt'] (1372) -> ['whole milk'] (2513) [0.40160349854227406]
+['root vegetables'] (1072) -> ['other vegetables'] (1903) [0.43470149253731344]
+['root vegetables'] (1072) -> ['whole milk'] (2513) [0.44869402985074625]
